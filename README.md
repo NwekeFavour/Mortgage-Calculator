@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://mortgage-calculator-delta.vercel.app/))
 
 ## My process
 
@@ -50,6 +50,8 @@ Users should be able to:
 - Bootstrap - For styles
 - fontAwesome Icons
 - Jquery
+
+
   **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
@@ -62,7 +64,6 @@ I learnt more about Jquery and also it's syntax when solving arithmetic problems
 
 I want to try to understand more about Jquery DOM manipulations.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
@@ -70,11 +71,7 @@ I want to try to understand more about Jquery DOM manipulations.
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Oknown15)
 - Twitter - [@yourusername](https://www.twitter.com/Nweke_19)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
 I want to thank frontend Challenge for the opportunity, first of all, then a friend of mine who is and accounting student she helped me out with thr formula for solving the mortgage.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
-
