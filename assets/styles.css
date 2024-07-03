@@ -1,0 +1,98 @@
+body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 500;
+}
+
+.mort{
+    font-weight: 700;
+}
+
+.Results {
+    background-color: #133040 !important;
+}
+
+.repaymentBg{
+    background-color: #fafae0;
+}
+
+.hng{
+    border: 1px solid hsl(61, 70%, 52%) !important;
+}
+
+.resultVisible{
+    display: none;
+}
+.input-group-text2{
+    background-color: hsl(61, 70%, 52%)!important;
+}
+.input-group-text3 {
+    color: hsl(0, 0%, 100%);
+    background-color: red!important;
+}
+
+.input-group-text{
+    background-color: hsl(202, 86%, 94%) ;
+}
+
+.repaymentss{
+    font-size: 45px;
+    color: hsl(61, 70%, 52%);
+}
+
+@media screen and (min-width:992px) {
+    .Results{
+    background-color: #133040 !important;
+    border-bottom-left-radius: 80px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 500px;
+    }
+
+    .calcSect{
+        margin-top: 77px;
+    }
+
+    .calc{
+        margin-top: 24px;
+    }
+
+    #result{
+        width: 90% ;
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .Results{
+    background-color: #133040 !important;
+    border-bottom-left-radius: 0% !important;
+    border-bottom-right-radius: 0% !important;
+    }
+    .repayBtn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .repayBtn button{
+        width: 400px;
+    }
+    .total p{
+        font-size: 18px !important;
+    }
+    .imgss{
+        margin-top: 20px;
+    }
+    .imgss img{
+        width: 150px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .Results{
+    background-color: #133040 !important;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    }
+}
